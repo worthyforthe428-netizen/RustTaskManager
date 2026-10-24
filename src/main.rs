@@ -1,4 +1,3 @@
-// Put this file at src/main.rs next to Cargo.toml.
 use ratatui::{
     crossterm::event::{self, Event, KeyCode, KeyEventKind},
     layout::{Constraint, Layout},
