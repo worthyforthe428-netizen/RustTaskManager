@@ -1,5 +1,8 @@
 # RustTaskManager
 
+<img width="1867" height="959" alt="Screenshot_2026-10-24_14-17-34" src="https://github.com/user-attachments/assets/02d14431-44f3-4dbe-af41-5055cd7458a8" />
+
+
 # My task manager fully build on Rust
 I made this with Claude as starting project on Rust
 
