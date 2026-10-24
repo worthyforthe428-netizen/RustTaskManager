@@ -62,7 +62,7 @@ impl App {
             .sys
             .processes()
             .iter()
-            .filter(|(_, p)| p.thread_kind().is_none()
+            .filter(|(_, p)| p.thread_kind().is_none())
             .map(|(pid, p)| ProcRow {
                 pid: *pid,
                 name: p.name().to_string(),
