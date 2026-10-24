@@ -4,7 +4,8 @@
 
 
 # My task manager fully build on Rust
-I made this with Claude as starting project on Rust
+This is my starting project on Rust
+and I build it to learn how rust can monitor system tasks
 
 what i include and cool fixtures :
 1. CPU and Memory usage sort
